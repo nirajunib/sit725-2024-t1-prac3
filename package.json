@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/nirajunib/sit725-2024-t1-prac3#readme",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "mongodb": "^6.5.0",
+    "nodemon": "^3.1.0"
   }
 }
